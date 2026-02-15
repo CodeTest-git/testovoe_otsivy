@@ -109,11 +109,6 @@ composer dev
 | `DB_CONNECTION` | Драйвер БД | `sqlite` или `mysql` |
 | `DB_DATABASE` | Путь/имя БД | `database/database.sqlite` |
 
-### Получение API-ключа Яндекс Карт
-
-1. Перейдите в [Кабинет разработчика Яндекс](https://developer.tech.yandex.ru/)
-2. Создайте новый ключ для **JavaScript API и HTTP Геокодер**
-3. Скопируйте ключ в переменную `YANDEX_MAPS_API_KEY`
 
 ---
 

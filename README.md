@@ -108,7 +108,6 @@ composer dev
 | `APP_URL` | URL приложения | `http://localhost:8000` |
 | `DB_CONNECTION` | Драйвер БД | `sqlite` или `mysql` |
 | `DB_DATABASE` | Путь/имя БД | `database/database.sqlite` |
-| `YANDEX_MAPS_API_KEY` | API-ключ Яндекс Карт | `a08148f5-...` |
 
 ### Получение API-ключа Яндекс Карт
 

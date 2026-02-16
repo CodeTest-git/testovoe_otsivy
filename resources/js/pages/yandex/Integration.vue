@@ -156,7 +156,7 @@ watch([ratingFilter, dateSort], () => {
 // Пагинация
 // ================================================================
 
-const perPage = 5;
+const perPage = 50;
 const currentPage = ref(1);
 
 const totalPages = computed(() => Math.max(1, Math.ceil(filteredReviews.value.length / perPage)));
